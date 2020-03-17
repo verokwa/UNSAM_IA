@@ -1,6 +1,6 @@
 # Repositorio de la materia Aprendizaje Automático (UNSAM)
 
-## 1er cuatrimenstre de 2020
+## 1er cuatrimestre de 2020
 
 ### Diapositivas de las clases
 
@@ -15,3 +15,13 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 ### Notebooks
 
 Los notebooks que forman parte del repositorio contienen las partes prácticas de las clases, tanto de los martes como de los jueves, y ejercicios. En principio, cada notebook de clase tiene asociado una serie de ejercicios.
+
+***
+
+### Videos
+
+Videos de las clases virtuales
+
+__Martes 17 de marzo.__<br>
+[Primera parte (YouTube)](https://www.youtube.com/watch?v=WkpgXdN4gF8&feature=youtu.be)<br>
+[Segunda parte (Google Meet)](https://drive.google.com/file/d/1qCTc-uttzxjA3KY6M1vvKSxX9OAikGxN/view?usp=sharing)
