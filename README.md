@@ -24,4 +24,7 @@ Videos de las clases virtuales
 
 __Martes 17 de marzo.__<br>
 [Primera parte (YouTube)](https://www.youtube.com/watch?v=WkpgXdN4gF8&feature=youtu.be)<br>
-[Segunda parte (Google Meet)](https://drive.google.com/file/d/1qCTc-uttzxjA3KY6M1vvKSxX9OAikGxN/view?usp=sharing)
+[Segunda parte (Google Meet)](https://drive.google.com/file/d/1qCTc-uttzxjA3KY6M1vvKSxX9OAikGxN/view?usp=sharing); [transcripción del chat](https://drive.google.com/file/d/1aOj1kF2Dd6LoP_AM4JB1XDd1mz3_m7hV/view?usp=sharing)
+
+__Jueves 19 de marzo.__<br>
+[Video](https://drive.google.com/file/d/1-Jg3EfaBzeMZcYBieG3Lo8EObOedBC3n/view?usp=sharing); [transcripción del chat](https://drive.google.com/file/d/13DE3rf6X4EtExi-zTFyeixBuO91OK8Sd/view?usp=sharing)
