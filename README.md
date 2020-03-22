@@ -28,3 +28,5 @@ __Martes 17 de marzo.__<br>
 
 __Jueves 19 de marzo.__<br>
 [Video](https://drive.google.com/file/d/1-Jg3EfaBzeMZcYBieG3Lo8EObOedBC3n/view?usp=sharing); [transcripción del chat](https://drive.google.com/file/d/13DE3rf6X4EtExi-zTFyeixBuO91OK8Sd/view?usp=sharing)
+
+__Jueves 26 de marzo.__<br>
