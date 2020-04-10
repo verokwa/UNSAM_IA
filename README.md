@@ -6,11 +6,13 @@
 
 Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
-[Martes 10 de marzo](https://drive.google.com/file/d/1tWty4OfYgU3LRR1FzH358l5IKz2KQfvM/view?usp=sharing). Introducción a la materia, aprendizaje automático y probabilidad.
+[Martes 10 de marzo](https://drive.google.com/file/d/1tWty4OfYgU3LRR1FzH358l5IKz2KQfvM/view). Introducción a la materia, aprendizaje automático y probabilidad.
 
-[Martes 17 de marzo](https://drive.google.com/file/d/1oFB76Vz5Szl6FWjRKAuAsoevDebgYIW_/view?usp=sharing). Probabilidades bayesianas; funciones de probabilidad; uso del teorema de Bayes.
+[Martes 17 de marzo](https://drive.google.com/file/d/1oFB76Vz5Szl6FWjRKAuAsoevDebgYIW_/view). Probabilidades bayesianas; funciones de probabilidad; uso del teorema de Bayes.
 
-[Jueves 2 de abril](https://drive.google.com/file/d/10cjqw1yuE-m17FS5lxOjDz8JL8sQra_0/view?usp=sharing). Distribución normal y multinormal. Teorema Central del Límite.
+[Jueves 2 de abril](https://drive.google.com/file/d/10cjqw1yuE-m17FS5lxOjDz8JL8sQra_0/view). Distribución normal y multinormal. Teorema Central del Límite.
+
+[Martes 7 de abril](https://drive.google.com/file/d/1Td6j5amKZBLiEPeTdibAC3IMPNa7mcjv/view). Modelos lineales. Regresión lineal y polinomial. Estimadores de máxima verosimilitud.
 ***
 
 ### Notebooks
@@ -25,16 +27,20 @@ Videos de las clases virtuales
 
 __Martes 17 de marzo.__<br>
 [Primera parte (YouTube)](https://www.youtube.com/watch?v=WkpgXdN4gF8&feature=youtu.be)<br>
-[Segunda parte (Google Meet)](https://drive.google.com/file/d/1qCTc-uttzxjA3KY6M1vvKSxX9OAikGxN/view?usp=sharing); [transcripción del chat](https://drive.google.com/file/d/1aOj1kF2Dd6LoP_AM4JB1XDd1mz3_m7hV/view?usp=sharing)
+[Segunda parte (Google Meet)](https://drive.google.com/file/d/1qCTc-uttzxjA3KY6M1vvKSxX9OAikGxN/view); [transcripción del chat](https://drive.google.com/file/d/1aOj1kF2Dd6LoP_AM4JB1XDd1mz3_m7hV/view?usp=sharing)
 
 __Jueves 19 de marzo.__<br>
-[Video](https://drive.google.com/file/d/1-Jg3EfaBzeMZcYBieG3Lo8EObOedBC3n/view?usp=sharing);
+[Video](https://drive.google.com/file/d/1-Jg3EfaBzeMZcYBieG3Lo8EObOedBC3n/view);
 [transcripción del chat](https://drive.google.com/file/d/13DE3rf6X4EtExi-zTFyeixBuO91OK8Sd/view?usp=sharing)
 
 __Jueves 26 de marzo.__<br>
-[Video](https://drive.google.com/file/d/1EPb5TmGpaxdUVkPKNCBZrCX9-iLBbUws/view?usp=sharing);
+[Video](https://drive.google.com/file/d/1EPb5TmGpaxdUVkPKNCBZrCX9-iLBbUws/view);
 [transcripción del chat](https://drive.google.com/file/d/1s2VuABeFMY7jj0k2BkLegCpLmxRFt8_Z/view?usp=sharing)
 
 __Jueves 2 de abril.__<br>
 [Video](https://drive.google.com/file/d/1GMCZ9RXDsDfxb1OtOCZyW7CpRs6oP_2w/view);
 [transcripción del chat](https://drive.google.com/file/d/1TkSw2TCSxXi9nhvhOK82H_O57WOkTnO3/view)
+
+__Martes 7 de abril.__<br>
+[Video](https://drive.google.com/file/d/1XIqKWD5L7F0xhPKkLQXJYZNelhy6z0Y2/view);
+[transcripción del chat](https://drive.google.com/file/d/1DQltVnPu_7F_WLqR9oYdSiACszRBPPfu/view)
