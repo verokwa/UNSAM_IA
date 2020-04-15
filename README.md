@@ -2,6 +2,12 @@
 
 ## 1er cuatrimestre de 2020
 
+### Notebooks
+
+Los notebooks que forman parte del repositorio contienen las partes prácticas de las clases, tanto de los martes como de los jueves, y ejercicios. En principio, cada notebook de clase tiene asociado una serie de ejercicios.
+
+***
+
 ### Diapositivas de las clases
 
 Las diapositivas están disponibles siguiendo los links que aparecen abajo.
@@ -13,12 +19,8 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 [Jueves 2 de abril](https://drive.google.com/file/d/10cjqw1yuE-m17FS5lxOjDz8JL8sQra_0/view). Distribución normal y multinormal. Teorema Central del Límite.
 
 [Martes 7 de abril](https://drive.google.com/file/d/1Td6j5amKZBLiEPeTdibAC3IMPNa7mcjv/view). Modelos lineales. Regresión lineal y polinomial. Estimadores de máxima verosimilitud.
-***
 
-### Notebooks
-
-Los notebooks que forman parte del repositorio contienen las partes prácticas de las clases, tanto de los martes como de los jueves, y ejercicios. En principio, cada notebook de clase tiene asociado una serie de ejercicios.
-
+[Martes 14 de abril](https://drive.google.com/file/d/1D1pUlX9E8jQl7IKTbjH7FistQyx_Myh8/view). Sobreajuste. Validación cruzada (K-fold, Leave One Out CV). Regularización (Ridge, Lasso).
 ***
 
 ### Videos
@@ -44,3 +46,7 @@ __Jueves 2 de abril.__<br>
 __Martes 7 de abril.__<br>
 [Video](https://drive.google.com/file/d/1XIqKWD5L7F0xhPKkLQXJYZNelhy6z0Y2/view);
 [transcripción del chat](https://drive.google.com/file/d/1DQltVnPu_7F_WLqR9oYdSiACszRBPPfu/view)
+
+__Martes 14 de abril.__<br>
+[Video](https://drive.google.com/file/d/1tU4bR6EXmr3nHupAus1aXesu85TGKYJW/view);
+[transcripción del chat](https://drive.google.com/file/d/1T-ZyxwA3vTkAklgmvGUcUhf3o4msCIyE/view)
