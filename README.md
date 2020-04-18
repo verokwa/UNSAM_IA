@@ -50,3 +50,5 @@ __Martes 7 de abril.__<br>
 __Martes 14 de abril.__<br>
 [Video](https://drive.google.com/file/d/1tU4bR6EXmr3nHupAus1aXesu85TGKYJW/view);
 [transcripción del chat](https://drive.google.com/file/d/1T-ZyxwA3vTkAklgmvGUcUhf3o4msCIyE/view)
+
+__Jueves 16 de abril.__<br>
