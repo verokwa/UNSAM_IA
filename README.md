@@ -21,8 +21,6 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 [Martes 7 de abril](https://drive.google.com/file/d/1Td6j5amKZBLiEPeTdibAC3IMPNa7mcjv/view). Modelos lineales. Regresión lineal y polinomial. Estimadores de máxima verosimilitud.
 
 [Martes 14 de abril](https://drive.google.com/file/d/1D1pUlX9E8jQl7IKTbjH7FistQyx_Myh8/view). Sobreajuste. Validación cruzada (K-fold, Leave One Out CV). Regularización (Ridge, Lasso).
-
-[Jueves 16 de abril](https://drive.google.com/open?id=1Dq9lvzY8iI9DAsmkQunq9JlubiK4SoxJ). Algunos detalles sobre cuadrados minimos, BGD y SGD.
 ***
 
 ### Videos
@@ -54,3 +52,5 @@ __Martes 14 de abril.__<br>
 [transcripción del chat](https://drive.google.com/file/d/1T-ZyxwA3vTkAklgmvGUcUhf3o4msCIyE/view)
 
 __Jueves 16 de abril.__<br>
+[Video](https://drive.google.com/file/d/1XXQI7TDqMbJPkbJJOpVaLTVkV1pJYNSS/view);
+[transcripción del chat](https://drive.google.com/file/d/167PmPXCoAWFV_dERbRzLC0dBOwvEfWKN/view)
