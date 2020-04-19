@@ -3,8 +3,8 @@
 
 ## Estado
 
-* [ *] Ejercicio 1
-* [ *] Ejercicio 2
+* [x] Ejercicio 1
+* [x] Ejercicio 2
 * [ ] Ejercicio 3
 
 ## Notas
