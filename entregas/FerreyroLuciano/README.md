@@ -5,7 +5,7 @@
 
 * [x] Ejercicio 1
 * [x] Ejercicio 2
-* [ ] Ejercicio 3
+* [x] Ejercicio 3
 
 ## Notas
 
